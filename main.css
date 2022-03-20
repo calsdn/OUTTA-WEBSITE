@@ -1,0 +1,279 @@
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+    margin: 0;
+    }
+    .topwhite{
+        background: #FFFFFF;
+        width: 1920px;
+        height: 80px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+    }
+    #logo{
+        position: absolute;
+        top: 24px;
+        left:80px;
+    }
+    .top{
+        color: #4558FF;
+        font-family: Noto Sans KR;
+        font-weight: 900;
+        font-size: 17px;
+        justify-content: space-between;
+
+        display:flex;
+        gap: 130px;
+        position: absolute;
+        top: 27px;
+        left: 1012px;
+
+    }
+    .login{
+        color: #9F9F9F;
+        font-family: Noto Sans KR;
+        font-weight: 900;
+        font-size: 15px;
+
+        display:flex;
+        gap:31px;
+        position: absolute;
+        left: 1700px;
+        top: 29px;
+    }
+
+    .one{
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+
+    .two, .three{
+        position: relative;
+        top: 0px;
+        left: 0px;
+        box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.05);
+    }
+
+    .wwd{
+        color: #4558FF;
+        font-family: Noto Sans KR;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+
+        position: absolute;
+        top: 60px;
+        left: 450px;
+    }
+    
+    .firstIll, .threeIll{
+        position: absolute;
+        left: 544px;
+        top: 286px;
+    }
+
+    .twoIll{
+        position: absolute;
+        left: 1165px;
+        top: 286px;
+    }
+
+    .ellipse{
+        position: absolute;
+        left: 450px;
+        top: 192px;
+    }
+
+    .ellipse2{
+        position: absolute;
+        left: 1071px;
+        top: 192px;
+    }
+
+    .program{
+        position: absolute;
+        left: 1191px;
+        top: 192px;
+    }
+
+    .book{
+        position: absolute;
+        width: 174.87px;
+        height: 54.6px;
+        left: 450px;
+        top: 192px;
+
+    }
+    
+    .resource{
+        position: absolute;
+        left: 1176px;
+        top: 192px;
+    }
+
+    .programtext, .booktext, .resourcetext{
+        font-family: Noto Sans KR;
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    .programtext{
+        position: absolute;
+        left: 1289px;
+        top: 255px;
+    }
+
+    .booktext{
+        position: absolute;
+        top: 255px;
+        left: 448px;
+    }
+
+    .resourcetext{
+        position: absolute;
+        left: 1145px;
+        top: 255px;
+    }
+
+    .programtexttwo, .booktexttwo, .resourcetexttwo{
+        font-family: Noto Sans KR;
+        font-size: 18px;
+        font-weight: 500;
+        text-align: right;
+    }
+
+    .programtexttwo, .resourcetexttwo{
+        position: absolute;
+        width: 432px;
+        height: 64px;
+        left: 1040px;
+        top: 468px;
+        font-family: 'Noto Sans KR';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 36px;
+        text-align: right;
+        letter-spacing: 0.1em;
+    }
+
+    .booktexttwo{
+        position: absolute;
+        width: 432px;
+        height: 64px;
+        left: 398px;
+        top: 468px;
+        font-family: 'Noto Sans KR';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 36px;
+        letter-spacing: 0.1em;
+    }
+
+    .bottom{
+        background: #FFFFFF;
+        width: 1920px;
+        height: 500px;
+        position: relative;
+        left: 0px;
+        top: 0px;
+    }
+
+    .fourLogos{
+        position: absolute;
+        top: 356px;
+        left: 72px;
+        display:flex;
+        gap: 38px;
+    }
+
+    .bottomText1{
+        font-family: 'Noto Sans KR';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: -0.015em;
+
+        position: absolute;
+        top: 407px;
+        left: 63px;
+        text-align: center;
+    }
+
+    .bottomText2{
+        font-family: 'Noto Sans KR';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        text-align: center;
+        letter-spacing: -0.015em;
+
+        position: absolute;
+        top: 431px;
+        left: 54px;
+    }
+
+    .logo2{
+        position: absolute;
+        left: 927px;
+        top: 407px;
+    }
+    
+    .bottomRight{
+        color: #4558FF;
+        font-family: Noto Sans KR;
+        font-weight: 900;
+        font-size: 15px;
+        justify-content: space-between;
+
+        display:flex;
+        gap: 48px;
+        position: absolute;
+        top: 402px;
+        left: 1351px;
+    }
+
+    .bottomLine{
+        position: absolute;
+        width: 1810px;
+        height: 1px;
+        left: 55px;
+        top: 221px;
+
+        background: rgba(0, 0, 0, 0.5);
+    }
+
+    .smallLine1{
+        position: absolute;
+        width: 17px;
+        height: 0px;
+        left: 1431px;
+        top: 407px;
+
+        border: 1px solid #C6C6C6;
+        transform: rotate(90deg);
+    }
+
+    .smallLine2{
+        position: absolute;
+        width: 17px;
+        height: 0px;
+        left: 1602px;
+        top: 407px;
+
+        border: 1px solid #C6C6C6;
+        transform: rotate(90deg);
+    }
+
+    .smallLine3{
+        position: absolute;
+        width: 17px;
+        height: 0px;
+        left: 1730px;
+        top: 407px;
+
+        border: 1px solid #C6C6C6;
+        transform: rotate(90deg);
+    }
